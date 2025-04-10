@@ -42,6 +42,7 @@ cd fashion-recommender
 pip install -r requirements.txt
 
 requirements:
+
         torch
         transformers
         faiss-cpu
@@ -54,4 +55,5 @@ requirements:
 
 
 📒 Run the notebook:
+
         jupyter notebook notebooks/fashion_recommender.ipynb
